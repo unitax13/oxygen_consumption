@@ -1,9 +1,9 @@
 reakcja całkowitego spalania metanu
-$$ CH_4 + 2O_2 \longrightarrow CO_2 + 2H_2 O$$
+$$ CH_4 + 2O_2 \longrightarrow CO_2 + 2H_2 O $$
+
 1 mol metanu + 2 mole tlenu
 16 u + 2 $*$ 32 u
 16u + 64u
-
 
 A więc zużycie tlenu będzie czterokrotnością (masową) zużycia metanu.
 
