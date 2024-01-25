@@ -7,8 +7,9 @@ $$CH_4 + 2O_2 \longrightarrow CO_2 + 2H_2 O$$
 
 A więc zużycie tlenu będzie czterokrotnością (masową) zużycia metanu.
 
-Zatem $\longrightarrow$ zakładając, że 98% gazu w kuchence to metan.
-/// za [ŹRÓDŁO 1](https://zmianasprzedawcygazu.pl/ile-gazu-zuzywa-kuchenka-gazowa/) i [ŹRÓDŁO 2](https://pgnig.pl/czym-jest-gaz-ziemny)
+ /// + [ŹRÓDŁO 1](https://zmianasprzedawcygazu.pl/ile-gazu-zuzywa-kuchenka-gazowa/) i [ŹRÓDŁO 2](https://pgnig.pl/czym-jest-gaz-ziemny)
+Zatem $\longrightarrow$ 98% gazu w kuchence to metan $\longrightarrow$ przyjmijmy, że to 100%
+
 
 Skoro kuchenka o mocy 9 kW zużywa 1 $m^3$ metanu w ciągu godziny, to kuchenka o mocy 5 kW zużyje 0.555 $m^3$ metanu w ciągu godziny.
 
