@@ -21,6 +21,6 @@ Zatem:
 - kuchenka 5 kW zużyje 0.365 kg metanu oraz 1.46 kg tlenu w ciągu godziny, CZYLI ok 6.08 g metanu na minutę ORAZ ok. 24.3 g tlenu na minutę
 Przeliczając to na objętość:
 - kuchenka 9 kW zużyje 1 $m^3$ lub 1000 litrów metanu na godzinę ORAZ 1.839 $m^3$ lub 1839 litrów tlenu na godzinę lub 30.65 litra tlenu na minutę
-- kuchenka 5 kW zużyje 0.555 $m^3$ metanu na godzinę czyli 555 litrów oraz 1.022 $m^3$ tlenu CZYLI 1022 litry na godzinę lub około 17 litrów na minutę.
+- kuchenka 5 kW zużyje 0.555 $m^3$ metanu na godzinę czyli 555 litrów oraz 1.022 $m^3$ tlenu CZYLI 1022 litry tlenu na godzinę lub około 17 litrów tlenu na minutę.
 
 Dla porównania człowiek potrzebuje około 15 litrów tlenu na godzinę lub 0.25 litra tlenu na minutę.
